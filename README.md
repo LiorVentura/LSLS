@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/933826947.svg)](https://doi.org/10.5281/zenodo.14879792)
+
 # Green and Dense Cities: A Sustainable Path Towards a Nature-Positive Future
 
 This repository contains the R scripts and relevant functions used in the manuscript **"Green and dense cities: A sustainable path towards nature-positive future"** (in review, *Nature Cities*). The code implements urban growth scenarios, simulates land-cover changes at 100 m resolution, and builds species distribution models (SDMs) to evaluate impacts on bird diversity. It also estimates human access to nature under various growth and restoration scenarios.
